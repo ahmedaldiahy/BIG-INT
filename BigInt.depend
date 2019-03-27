@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552471101 source:/home/ahmed/Documents/codeblocks/BigInt/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<assert.h>
+	<time.h>
+	<math.h>
+
